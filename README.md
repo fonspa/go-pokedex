@@ -1,5 +1,7 @@
 # Pokedex
 
+Boot.dev Go-Pokedex little exercise/project.
+
 ## TODOs
 
 - [ ] Update the CLI to support the "up" arrow to cycle through previous commands
